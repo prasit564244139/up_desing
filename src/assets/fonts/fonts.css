@@ -1,0 +1,14 @@
+/* src/assets/fonts/fonts.css */
+@font-face {
+  font-family: 'Raleway';
+  src: url('./Raleway-Regular.ttf') format('truetype');
+  font-weight: 400; /* กำหนดน้ำหนักสำหรับฟอนต์ปกติ */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Raleway';
+  src: url('./Raleway-Bold.ttf') format('truetype');
+  font-weight: 700; /* กำหนดน้ำหนักสำหรับฟอนต์ Bold */
+  font-style: normal;
+}
