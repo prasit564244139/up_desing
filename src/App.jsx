@@ -31,7 +31,7 @@ function App() {
         <Route path="/Projects" element={<Projects />} /> {/* กำหนด route สำหรับหน้า Projects */}
         <Route path="/ProjectsDetail" element={<ProjectsDetail />} /> {/* กำหนด route สำหรับหน้า ProjectsDetail */}
       </Routes>
-      <Footer /> {/* แสดง Footer */}
+      <Footer /> {/* แสดง Footer Test */}
     </Router>
   );
 }
